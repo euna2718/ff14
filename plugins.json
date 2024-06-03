@@ -12,9 +12,6 @@
     "Punchline": "ChatBubblesPvP",
     "DownloadLinkInstall": "https://github.com/DreanorFFXIV/ChatBubblesPvP/releases/latest/download/ChatBubblesPvP.zip",
     "DownloadLinkTesting": "https://github.com/DreanorFFXIV/ChatBubblesPvP/releases/latest/download/ChatBubblesPvP.zip",
-    "DownloadLinkUpdate": "https://github.com/DreanorFFXIV/ChatBubblesPvP/releases/latest/download/ChatBubblesPvP.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "LastUpdated": "0"
+    "DownloadLinkUpdate": "https://github.com/DreanorFFXIV/ChatBubblesPvP/releases/latest/download/ChatBubblesPvP.zip"
   }
 ]
